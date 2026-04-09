@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thaara2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
 |  |
 | ------- |
