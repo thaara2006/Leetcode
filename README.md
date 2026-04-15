@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/thaara2006/Leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
 | [2485-find-the-pivot-integer](https://github.com/thaara2006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Bit Manipulation
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
