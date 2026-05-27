@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/thaara2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thaara2006/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Divide and Conquer
 |  |
 | ------- |
