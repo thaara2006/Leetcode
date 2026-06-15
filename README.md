@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/thaara2006/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/thaara2006/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2525-categorize-box-according-to-criteria](https://github.com/thaara2006/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thaara2006/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
