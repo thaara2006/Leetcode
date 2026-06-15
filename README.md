@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/thaara2006/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
+| [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/thaara2006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thaara2006/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/thaara2006/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thaara2006/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
