@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/thaara2006/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/thaara2006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/thaara2006/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2769-find-the-maximum-achievable-number](https://github.com/thaara2006/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thaara2006/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
