@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thaara2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaara2006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thaara2006/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/thaara2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaara2006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thaara2006/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thaara2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaara2006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
