@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thaara2006/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thaara2006/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/thaara2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thaara2006/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/thaara2006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/thaara2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
