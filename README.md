@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/thaara2006/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 | [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/thaara2006/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/thaara2006/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/thaara2006/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/thaara2006/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
