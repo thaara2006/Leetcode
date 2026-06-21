@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/thaara2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaara2006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thaara2006/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
