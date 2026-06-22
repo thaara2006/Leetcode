@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/thaara2006/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3024-type-of-triangle](https://github.com/thaara2006/Leetcode/tree/master/3024-type-of-triangle) |
@@ -70,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/thaara2006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/thaara2006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thaara2006/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
