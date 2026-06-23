@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thaara2006/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/thaara2006/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/thaara2006/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3110-score-of-a-string](https://github.com/thaara2006/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thaara2006/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3612-process-string-with-special-operations-i](https://github.com/thaara2006/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
