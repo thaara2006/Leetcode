@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/thaara2006/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thaara2006/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3210-find-the-encrypted-string](https://github.com/thaara2006/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/thaara2006/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
