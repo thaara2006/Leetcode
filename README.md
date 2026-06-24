@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/thaara2006/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/thaara2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/thaara2006/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/thaara2006/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/thaara2006/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/thaara2006/Leetcode/tree/master/1732-find-the-highest-altitude) |
