@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/thaara2006/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thaara2006/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/thaara2006/Leetcode/tree/master/3210-find-the-encrypted-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/thaara2006/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/thaara2006/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
@@ -203,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/thaara2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thaara2006/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/thaara2006/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
