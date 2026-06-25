@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/thaara2006/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/thaara2006/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thaara2006/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thaara2006/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/thaara2006/Leetcode/tree/master/0292-nim-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/thaara2006/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/thaara2006/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/thaara2006/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/thaara2006/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2582-pass-the-pillow](https://github.com/thaara2006/Leetcode/tree/master/2582-pass-the-pillow) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thaara2006/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/thaara2006/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/thaara2006/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thaara2006/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
