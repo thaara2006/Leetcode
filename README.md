@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/thaara2006/Leetcode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/thaara2006/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thaara2006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [0611-valid-triangle-number](https://github.com/thaara2006/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/thaara2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/thaara2006/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/thaara2006/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/thaara2006/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/thaara2006/Leetcode/tree/master/0292-nim-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/thaara2006/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Counting
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thaara2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
