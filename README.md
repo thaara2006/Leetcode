@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/thaara2006/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thaara2006/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thaara2006/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3861-minimum-capacity-box](https://github.com/thaara2006/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/thaara2006/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
