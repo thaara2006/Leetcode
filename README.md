@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/thaara2006/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/thaara2006/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thaara2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thaara2006/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thaara2006/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/thaara2006/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thaara2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/thaara2006/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
