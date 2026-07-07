@@ -8,7 +8,7 @@ class Solution {
     public boolean isPal(String s){
         String o=s;
         StringBuilder sb=new StringBuilder(s);
-        String r=sb.reverse().toString();
-        return r.equals(o);
+        return (sb.reverse().toString()).equals(o);
+        //return r.equals(o);
     }
 }
