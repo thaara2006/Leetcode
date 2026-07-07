@@ -6,9 +6,10 @@ class Solution {
             int j=i+1,c=0;
             if(forts[i]==1){
                 //int j=i+1,c=0;
-                while(j<forts.length && (forts[j]!=1 && forts[j]!=-1)){
+                while(j<forts.length && forts[j]!=1 && forts[j]!=-1){
                     //if(forts[j]==-1 || forts[j]==1) break;
-                    if(forts[j]==0) c++;
+                    //if(forts[j]==0) 
+                    c++;
                     j++;
                 }
                 if(j<forts.length && forts[i]!=forts[j]) m=Math.max(m,c);
@@ -16,9 +17,10 @@ class Solution {
             }
             else if(forts[i]==-1){
                 //int j=i+1,c=0;
-                while(j<forts.length && (forts[j]!=1 && forts[j]!=-1)){
+                while(j<forts.length && forts[j]!=1 && forts[j]!=-1){
                     //if(forts[j]==1 || forts[j]==-1) break;
-                    if(forts[j]==0) c++;
+                    //if(forts[j]==0) 
+                    c++;
                     j++;
                 }
                 if(j<forts.length && forts[i]!=forts[j]) m=Math.max(m,c);
