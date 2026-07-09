@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/thaara2006/Leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/thaara2006/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/thaara2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/thaara2006/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thaara2006/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/thaara2006/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/thaara2006/Leetcode/tree/master/0292-nim-game) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/thaara2006/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2413-smallest-even-multiple](https://github.com/thaara2006/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thaara2006/Leetcode/tree/master/0067-add-binary) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/thaara2006/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2582-pass-the-pillow](https://github.com/thaara2006/Leetcode/tree/master/2582-pass-the-pillow) |
