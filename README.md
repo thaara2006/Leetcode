@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/thaara2006/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2582-pass-the-pillow](https://github.com/thaara2006/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/thaara2006/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/thaara2006/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/thaara2006/Leetcode/tree/master/3024-type-of-triangle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/thaara2006/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thaara2006/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
