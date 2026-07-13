@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/thaara2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/thaara2006/Leetcode/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/thaara2006/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/thaara2006/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thaara2006/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thaara2006/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/thaara2006/Leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/thaara2006/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/thaara2006/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thaara2006/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thaara2006/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/thaara2006/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thaara2006/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Enumeration
 |  |
