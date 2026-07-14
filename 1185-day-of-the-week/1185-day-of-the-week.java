@@ -1,8 +1,8 @@
 class Solution {
     public String dayOfTheWeek(int day, int month, int year) {
-        String[] st={"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+        String[] st={"Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"};
         int d=0;
-        for(int i=1;i<year;i++){
+        for(int i=1971;i<year;i++){
             if(i%400==0 || (i%4==0 && i%100!=0)) d+=366;
             else d+=365;
         }
@@ -14,6 +14,6 @@ class Solution {
             else if(i==2 && !l) d+=28;
             else d+=30;
         }
-        return st[(d+day)%7];
+        return st[(d+day-1)%7];
     }
 }
