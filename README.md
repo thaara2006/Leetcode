@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/thaara2006/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thaara2006/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/thaara2006/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/thaara2006/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1598-crawler-log-folder](https://github.com/thaara2006/Leetcode/tree/master/1598-crawler-log-folder) |
