@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/thaara2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/thaara2006/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/thaara2006/Leetcode/tree/master/0941-valid-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/thaara2006/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thaara2006/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/thaara2006/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/thaara2006/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/thaara2006/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0925-long-pressed-name](https://github.com/thaara2006/Leetcode/tree/master/0925-long-pressed-name) |
+| [1089-duplicate-zeros](https://github.com/thaara2006/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thaara2006/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thaara2006/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/thaara2006/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
