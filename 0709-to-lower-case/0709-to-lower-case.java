@@ -1,0 +1,11 @@
+class Solution {
+    public String toLowerCase(String s) {
+        char c[]=s.toCharArray();
+        for(int i=0;i<c.length;i++){
+            if((int)c[i]>=65 && (int)c[i]<=90){
+                c[i]=(char)((int)c[i]+32);
+            }
+        }
+        return new String(c);
+    }
+}
