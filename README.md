@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/thaara2006/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/thaara2006/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thaara2006/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/thaara2006/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/thaara2006/Leetcode/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thaara2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
