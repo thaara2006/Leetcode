@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thaara2006/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/thaara2006/Leetcode/tree/master/3379-transformed-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3861-minimum-capacity-box](https://github.com/thaara2006/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/thaara2006/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3360-stone-removal-game](https://github.com/thaara2006/Leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thaara2006/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/thaara2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/thaara2006/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/thaara2006/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/thaara2006/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thaara2006/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thaara2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
