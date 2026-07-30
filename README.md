@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/thaara2006/Leetcode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/thaara2006/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thaara2006/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/thaara2006/Leetcode/tree/master/0680-valid-palindrome-ii) |
