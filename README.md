@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/thaara2006/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/thaara2006/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/thaara2006/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thaara2006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/thaara2006/Leetcode/tree/master/3024-type-of-triangle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/thaara2006/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thaara2006/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/thaara2006/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/thaara2006/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/thaara2006/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thaara2006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/thaara2006/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/thaara2006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/thaara2006/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/thaara2006/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/thaara2006/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2706-buy-two-chocolates](https://github.com/thaara2006/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thaara2006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Brainteaser
 |  |
 | ------- |
