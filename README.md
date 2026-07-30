@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thaara2006/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1598-crawler-log-folder](https://github.com/thaara2006/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/thaara2006/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1816-truncate-sentence](https://github.com/thaara2006/Leetcode/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/thaara2006/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thaara2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thaara2006/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/thaara2006/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1816-truncate-sentence](https://github.com/thaara2006/Leetcode/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/thaara2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/thaara2006/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
