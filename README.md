@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/thaara2006/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/thaara2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/thaara2006/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/thaara2006/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/thaara2006/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/thaara2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/thaara2006/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
