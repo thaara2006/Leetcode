@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/thaara2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/thaara2006/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2399-check-distances-between-same-letters](https://github.com/thaara2006/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/thaara2006/Leetcode/tree/master/2418-sort-the-people) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/thaara2006/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/thaara2006/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/thaara2006/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thaara2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thaara2006/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2278-percentage-of-letter-in-string](https://github.com/thaara2006/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
