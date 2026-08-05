@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/thaara2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/thaara2006/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/thaara2006/Leetcode/tree/master/0941-valid-mountain-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/thaara2006/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1089-duplicate-zeros](https://github.com/thaara2006/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thaara2006/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/thaara2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/thaara2006/Leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0953-verifying-an-alien-dictionary](https://github.com/thaara2006/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1189-maximum-number-of-balloons](https://github.com/thaara2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1496-path-crossing](https://github.com/thaara2006/Leetcode/tree/master/1496-path-crossing) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/thaara2006/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/thaara2006/Leetcode/tree/master/0925-long-pressed-name) |
+| [0953-verifying-an-alien-dictionary](https://github.com/thaara2006/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thaara2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/thaara2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/thaara2006/Leetcode/tree/master/1446-consecutive-characters) |
