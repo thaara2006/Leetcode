@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thaara2006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/thaara2006/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/thaara2006/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/thaara2006/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2399-check-distances-between-same-letters](https://github.com/thaara2006/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/thaara2006/Leetcode/tree/master/2418-sort-the-people) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/thaara2006/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/thaara2006/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/thaara2006/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/thaara2006/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/thaara2006/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/thaara2006/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2399-check-distances-between-same-letters](https://github.com/thaara2006/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/thaara2006/Leetcode/tree/master/2418-sort-the-people) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/thaara2006/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/thaara2006/Leetcode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/thaara2006/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Tree
