@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/thaara2006/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thaara2006/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/thaara2006/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/thaara2006/Leetcode/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thaara2006/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/thaara2006/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thaara2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/thaara2006/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
