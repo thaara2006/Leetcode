@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/thaara2006/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1089-duplicate-zeros](https://github.com/thaara2006/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/thaara2006/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thaara2006/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/thaara2006/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thaara2006/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
