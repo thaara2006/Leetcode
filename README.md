@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thaara2006/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3379-transformed-array](https://github.com/thaara2006/Leetcode/tree/master/3379-transformed-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thaara2006/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/thaara2006/Leetcode/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/thaara2006/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/thaara2006/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/thaara2006/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/thaara2006/Leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/thaara2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/thaara2006/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/thaara2006/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thaara2006/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thaara2006/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3731-find-missing-elements](https://github.com/thaara2006/Leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
