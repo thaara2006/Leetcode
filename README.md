@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/thaara2006/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/thaara2006/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/thaara2006/Leetcode/tree/master/0292-nim-game) |
+| [1154-day-of-the-year](https://github.com/thaara2006/Leetcode/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/thaara2006/Leetcode/tree/master/1185-day-of-the-week) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/thaara2006/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/thaara2006/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/thaara2006/Leetcode/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/thaara2006/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thaara2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1154-day-of-the-year](https://github.com/thaara2006/Leetcode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/thaara2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1436-destination-city](https://github.com/thaara2006/Leetcode/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/thaara2006/Leetcode/tree/master/1446-consecutive-characters) |
