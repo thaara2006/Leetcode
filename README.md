@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/thaara2006/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/thaara2006/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/thaara2006/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/thaara2006/Leetcode/tree/master/0796-rotate-string) |
 | [0925-long-pressed-name](https://github.com/thaara2006/Leetcode/tree/master/0925-long-pressed-name) |
 | [0953-verifying-an-alien-dictionary](https://github.com/thaara2006/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/thaara2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/thaara2006/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thaara2006/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/thaara2006/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
